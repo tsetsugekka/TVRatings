@@ -1,0 +1,14 @@
+factor_analyzer==0.2.3
+japanize_matplotlib==1.0.4
+~cipy==1.2.1
+seaborn==0.9.0
+fbprophet==0.6
+statsmodels==0.9.0
+matplotlib==3.1.1
+pandas==0.24.2
+Keras==2.3.1
+tushare==1.2.54
+~umpy==1.16.2
+numpy==1.21.0
+scikit_learn==0.24.2
+scipy==1.7.0
